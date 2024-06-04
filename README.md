@@ -1,5 +1,8 @@
 ## Presentation
-It's just a very siple chatbot written in Python with the help of Groq and llama3.
+It's just a very simple chatbot written in Python with the help of Groq and llama3.
+
+## Don't forget
+You will need an API key from the Groq website. So don't forget to get one.
 
 ## How to run it
 Just run the python file from your terminal with:
