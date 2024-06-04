@@ -3,7 +3,7 @@ It's just a very simple chatbot written in Python with the help of Groq and llam
 
 ## Don't forget
 You will need an API key from the Groq website.
-You can go here:    https://console.groq.com/login 
+You can go here:    https://console.groq.com/login    
 So don't forget to get one and put it in the **api_key** field at the top of the code.
 
 ## How to run it
