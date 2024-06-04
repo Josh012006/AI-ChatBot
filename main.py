@@ -1,7 +1,7 @@
 from groq import Groq
 
 client = Groq(
-    api_key="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",
+    api_key="",
 )
 
 # Define a variable to store conversation history
